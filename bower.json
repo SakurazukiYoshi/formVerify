@@ -1,0 +1,17 @@
+{
+  "name": "text",
+  "authors": [
+    "qqyi126 <573623579@qq.com>"
+  ],
+  "description": "",
+  "main": "js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
